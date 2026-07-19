@@ -1,0 +1,71 @@
+body{
+
+    margin:0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.container{
+
+    display:flex;
+
+    justify-content:space-around;
+
+    margin-top:70px;
+
+}
+
+.column{
+
+    width:30%;
+
+    padding:20px;
+
+    border-left:5px solid green;
+
+}
+
+.column:first-child{
+
+    border-left:none;
+
+}
+
+h1{
+
+    font-size:28px;
+
+    font-weight:bold;
+
+}
+
+h2{
+
+    font-size:20px;
+
+    margin-top:20px;
+
+}
+
+h3{
+
+    font-size:20px;
+
+    margin-bottom:5px;
+
+}
+
+h4{
+
+    font-size:18px;
+
+    margin-top:5px;
+
+}
+
+p{
+
+    color:gray;
+
+}
