@@ -1,0 +1,35 @@
+body{
+
+    margin:0;
+
+    padding:20px;
+
+    font-family:Arial;
+
+}
+
+button{
+
+    width:90px;
+
+    height:28px;
+
+}
+
+table{
+
+    margin-top:20px;
+
+}
+
+td{
+
+    padding:5px;
+
+}
+
+input{
+
+    width:110px;
+
+}
