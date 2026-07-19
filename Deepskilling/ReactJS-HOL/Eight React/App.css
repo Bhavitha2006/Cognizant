@@ -1,0 +1,50 @@
+body{
+
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:white;
+
+}
+
+.container{
+
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+
+    margin-top:220px;
+
+}
+
+.box{
+
+    display:flex;
+    align-items:center;
+
+}
+
+button{
+
+    background:#90EE90;
+
+    border:2px solid green;
+
+    color:black;
+
+    font-weight:bold;
+
+    padding:4px 10px;
+
+    margin-right:8px;
+
+    cursor:pointer;
+
+}
+
+span{
+
+    font-size:22px;
+
+    font-weight:bold;
+
+}
