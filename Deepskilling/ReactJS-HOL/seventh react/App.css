@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+
+    margin-top:60px;
+    margin-left:80px;
+
+}
+
+h1{
+
+    color:green;
+    font-size:50px;
+    margin-bottom:35px;
+
+}
+
+table{
+
+    border-collapse:collapse;
+    border:3px solid #bfbfbf;
+    text-align:center;
+
+}
+
+th{
+
+    border:3px solid #bfbfbf;
+    padding:10px 20px;
+    color:green;
+    font-size:20px;
+
+}
+
+td{
+
+    border:3px solid #bfbfbf;
+    padding:10px 20px;
+    color:#7fc97f;
+    font-size:18px;
+
+}
